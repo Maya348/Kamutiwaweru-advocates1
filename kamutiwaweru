@@ -1,0 +1,11 @@
+kamutiwaweru-advocates/
+  ├── index.html
+  ├── about.html
+  ├── services.html
+  ├── testimonials.html
+  ├── contact.html
+  ├── styles.css
+  ├── images/
+       ├── image1.jpg
+       ├── image2.png
+       └── ...
